@@ -1,29 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to TheOriginalSoni's website
 
-You can use the [editor on GitHub](https://github.com/TheOriginalSoni/Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Subham Soni, also known as TheOriginalSoni. This is my Website (It is a work in progress).
 
-### Markdown
+# About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a student of Computer Science in Birla Institute of Technology and Science, Pilani.
 
-```markdown
-Syntax highlighted code block
+# Contact me
 
-# Header 1
-## Header 2
-### Header 3
+You can contact me via email at soniatwikipedia [at] gmail [dot] com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
